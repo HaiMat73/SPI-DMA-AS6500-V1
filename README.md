@@ -1,0 +1,2 @@
+# SPI-DMA-AS6500-V1
+Workspace - STM32CubeIDE v1.8.0
